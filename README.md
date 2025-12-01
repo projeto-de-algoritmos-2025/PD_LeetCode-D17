@@ -16,35 +16,32 @@ O projeto possui como tema central a resolução de exercícios de programação
 
 | Exercício | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
-|  |  |  |
+| [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | Médio |  |
+| [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Difícil |  |
 
 [Vídeo explicando todos os exercícios]()
 
 ## Screenshots
 
-### Exercício 01
+### Exercício 01 - 688 Knight Probability in Chessboard
 
-<!--
 <div align="center">
-  <img src="" />
+  <img src="688-Knight-Probability-in-Chessboard/image.png" />
   <br/>
-  <a href="">
+  <a href="https://leetcode.com/problems/knight-probability-in-chessboard/submissions/1844425407/">
     Visualizar submissão do exercício
   </a>
 </div>
--->
 
-### Exercício 02
+### Exercício 02 - 1235 Maximum Profit in Job Scheduling
 
-<!--
 <div align="center">
-  <img src="" />
+  <img src="1235-Maximum-Profit-in-Job-Scheduling/image.png" />
   <br/>
-  <a href="">
+  <a href="https://leetcode.com/problems/maximum-profit-in-job-scheduling/submissions/1844426320/">
     Visualizar submissão do exercício
   </a>
 </div>
--->
 
 ### Exercício 03
 
