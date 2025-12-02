@@ -16,7 +16,7 @@ O projeto possui como tema central a resolução de exercícios de programação
 
 | Exercício | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
-| [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | Médio |  |
+| [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/) | Médio |  |
 | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Difícil |  |
 | [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) | Médio |  |
 | [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) | Difícil |  |
