@@ -18,6 +18,7 @@ O projeto possui como tema central a resolução de exercícios de programação
 |---------|--------|------------------|
 | [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | Médio |  |
 | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Difícil |  |
+| [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) | Médio |  |
 
 [Vídeo explicando todos os exercícios]()
 
@@ -29,7 +30,7 @@ O projeto possui como tema central a resolução de exercícios de programação
   <img src="688-Knight-Probability-in-Chessboard/image.png" />
   <br/>
   <a href="https://leetcode.com/problems/knight-probability-in-chessboard/submissions/1844425407/">
-    Visualizar submissão do exercício
+    Visualizar submissão do exercício 688
   </a>
 </div>
 
@@ -39,21 +40,19 @@ O projeto possui como tema central a resolução de exercícios de programação
   <img src="1235-Maximum-Profit-in-Job-Scheduling/image.png" />
   <br/>
   <a href="https://leetcode.com/problems/maximum-profit-in-job-scheduling/submissions/1844426320/">
-    Visualizar submissão do exercício
+    Visualizar submissão do exercício 1235
   </a>
 </div>
 
-### Exercício 03
+### Exercício 03 - 873. Length of Longest Fibonacci Subsequence
 
-<!--
 <div align="center">
-  <img src="" />
+  <img src="873-Length-of-Longest-Fibonacci-Subsequence/image.png" />
   <br/>
-  <a href="">
-    Visualizar submissão do exercício
+  <a href="https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/submissions/1844596968/">
+    Visualizar submissão do exercício 873
   </a>
 </div>
--->
 
 ### Exercício 04
 
