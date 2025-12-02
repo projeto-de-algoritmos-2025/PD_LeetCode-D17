@@ -16,12 +16,12 @@ O projeto possui como tema central a resolução de exercícios de programação
 
 | Exercício | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
-| [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/) | Médio |  |
-| [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Difícil |  |
-| [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) | Médio |  |
-| [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) | Difícil |  |
+| [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/) | Médio | [00:00](https://youtu.be/6356vjJc-CE?si=8goW0SfB8f-YGTxo) |
+| [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Difícil | [1:15](https://youtu.be/6356vjJc-CE?si=kyFDO4jjXL1xSUor&t=75) |
+| [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) | Médio | [2:17](https://youtu.be/6356vjJc-CE?si=kYzHTA1i7VYjh0G_&t=137) |
+| [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) | Difícil | [4:00](https://youtu.be/6356vjJc-CE?si=kdaSUxlSxWoa_QIi&t=240) |
 
-[Vídeo explicando todos os exercícios]()
+[Vídeo explicando todos os exercícios](https://youtu.be/6356vjJc-CE)
 
 ## Screenshots
 
